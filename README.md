@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello random people, i'm Plain, a disapointment in life
 
-<!--
-**PlainSys/PlainSys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Time for random things about me`
+- Bad Game Dev
+- He/Him
+- disapointment in life
+- used Bosca Ceoil and LMMS to make music
+- I suck at life
 
-Here are some ideas to get you started:
+Sys
+: = System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"i also like touhou..." [DudeNoob34](https://github.com/dudenoob34) 2022 except I agree with him

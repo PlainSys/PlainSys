@@ -8,6 +8,6 @@
 - I suck at life
 
 Sys
-: = System
+: System
 
 "i also like touhou..." [DudeNoob34](https://github.com/dudenoob34) 2022 except I agree with him

@@ -1,6 +1,6 @@
 # Hello random people, i'm Plain, a disapointment in life
 
-![junko](junkogyateting.jpeg)
+![Keine](keine.jpeg)
 
 `Time for random things about me`
 - Bad Game Dev

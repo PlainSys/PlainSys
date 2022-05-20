@@ -11,4 +11,4 @@
 
 Sys = System
 
-"i also like touhou..." [DudeNoob34](https://github.com/dudenoob34) 2022 except I agree with him
+"i think lua is uncool..." [DudeNoob34](https://github.com/dudenoob34) 2022 except I agree with him

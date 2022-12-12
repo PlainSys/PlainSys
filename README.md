@@ -3,7 +3,8 @@
 ![Keine](keine.jpeg)
 
 `Time for things about me`
-###I'm Plain, a bad game developer. Thats pretty much it. I also run this poopy site that I'm rarely going to use called [Trash Ting](https://plainsys.github.io/)
+
+I'm Plain, a bad game developer. Thats pretty much it. I also run this poopy site that I'm rarely going to use called [Trash Ting](https://plainsys.github.io/)
 
 `Other things about me`
 - He/Him

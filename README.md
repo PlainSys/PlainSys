@@ -1,8 +1,12 @@
-# Hello random people, i'm Plain.
+![Plainlogo](plaib.png)
 
+![Pletooo](Pleto.png)
+
+# Hello random people, I'm Plain.
+---
 ![Keine](keine.jpeg)
 
-`Time for things about me`
+### Time for things about me
 
 I'm Plain, a bad game developer. Thats pretty much it. I also run this poopy site that I'm rarely going to use called [Trash Ting](https://plainsys.github.io/)
 
@@ -12,11 +16,19 @@ I'm Plain, a bad game developer. Thats pretty much it. I also run this poopy sit
 - I suck at life
 - I'm sometimes active here
 - Soundfonts are cool
+---
+### *Gotta add dem stats*
 
-[![Plain's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlainSys&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Plain's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlainSys&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/PlainSys/plainsys.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PlainSys&repo=plainsys.github.io&theme=buefy" />
-</a>
+### Totally cool repo's... please don't check them ou-
 
-Sys = System
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlainSys&repo=plainsys.github.io&theme=algolia)](https://github.com/PlainSys/plainsys.github.io)
+
+*Honestly, this ting is pretty goated. Thank you [anuraghazra](https://github.com/anuraghazra)*
+
+*check out their [readme stats](https://github.com/anuraghazra/github-readme-stats)*
+
+
+
+oh yeah uh Sys = System

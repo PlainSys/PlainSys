@@ -1,6 +1,6 @@
-<p align="center"><img width="80%" alt="Plainlogo" src="plaib.png" /></p>
+<p align="center"><img alt="Plainlogo" src="plaib.png"></p>
 
-![Pletooo](Pleto.png)
+<img width="50%" alt="Pletooo" src="Pleto.png">
 
 # Hello random people, I'm Plain.
 ---

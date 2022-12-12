@@ -15,4 +15,8 @@ I'm Plain, a bad game developer. Thats pretty much it. I also run this poopy sit
 
 [![Plain's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlainSys&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/PlainSys/plainsys.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PlainSys&repo=plainsys.github.io&theme=buefy" />
+</a>
+
 Sys = System

@@ -1,6 +1,6 @@
 <p align="center"><img alt="Plainlogo" src="plaib.png"></p>
 
-<img alt="Pletooo" src="Pleto.png" width=100px height=200px>
+<img alt="Pletooo" src="Pleto.png" width=250px height=200px>
 
 # Hello random people, I'm Plain.
 ---

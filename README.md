@@ -13,4 +13,6 @@ I'm Plain, a bad game developer. Thats pretty much it. I also run this poopy sit
 - I'm sometimes active here
 - Soundfonts are cool
 
+[![Plain's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlainSys)](https://github.com/anuraghazra/github-readme-stats)
+
 Sys = System

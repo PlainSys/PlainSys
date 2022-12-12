@@ -1,14 +1,15 @@
-# Hello random people, i'm Plain, a disapointment in life
+# Hello random people, i'm Plain.
 
 ![Keine](keine.jpeg)
 
-`Time for random things about me`
-- Bad Game Dev
+`Time for things about me`
+###I'm Plain, a bad game developer. Thats pretty much it. I also run this poopy site that I'm rarely going to use called [Trash Ting](https://plainsys.github.io/)
+
+`Other things about me`
 - He/Him
-- disapointment in life
-- used Bosca Ceoil and LMMS to make music
+- Uses Bosca Ceoil and LMMS to make music
 - I suck at life
+- I'm sometimes active here
+- Soundfonts are cool
 
 Sys = System
-
-"i think lua is uncool..." [DudeNoob34](https://github.com/dudenoob34) 2022 except I agree with him

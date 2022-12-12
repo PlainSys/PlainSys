@@ -1,4 +1,4 @@
-![Plainlogo](plaib.png)
+<p align="center"><img width="80%" alt="Plainlogo" src="plaib.png" /></p>
 
 ![Pletooo](Pleto.png)
 
@@ -19,7 +19,7 @@ I'm Plain, a bad game developer. Thats pretty much it. I also run this poopy sit
 ---
 ### *Gotta add dem stats*
 
-[![Plain's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlainSys&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Plain's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlainSys&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Totally cool repo's... please don't check them ou-
 

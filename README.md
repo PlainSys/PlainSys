@@ -20,6 +20,7 @@ I'm Plain, a bad game developer. Thats pretty much it. I also run this poopy sit
 ### *Gotta add dem stats*
 
 [![Plain's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlainSys&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PlainSys&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Totally cool repo's... please don't check them ou-
 

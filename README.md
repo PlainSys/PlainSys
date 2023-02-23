@@ -26,7 +26,7 @@ I'm Plain, a bad game developer. Thats pretty much it. I also run this poopy sit
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlainSys&repo=plainsys.github.io&theme=algolia)](https://github.com/PlainSys/plainsys.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlainSys&repo=plainsys.github.io&theme=algolia)](https://github.com/PlainSys/Rellipse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlainSys&repo=Rellipse&theme=algolia)](https://github.com/PlainSys/Rellipse)
 
 *Honestly, this ting is pretty goated. Thank you [anuraghazra](https://github.com/anuraghazra)*
 

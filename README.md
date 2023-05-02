@@ -4,7 +4,7 @@
 
 # Hello random people, I'm Plain.
 ---
-![Keine](keine.jpeg)
+![Yuuka](yuuk.gif)
 
 ### Time for things about me
 
